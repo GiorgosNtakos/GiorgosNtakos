@@ -11,15 +11,18 @@ I design, simulate and verify hardware architectures using VHDL/Verilog and indu
 ## About Me
 
 - **Integrated Master in Computer & Informatics Engineering (5-year degree)**  
-  Computer Engineering and Informatics Department(CEID) – University of Patras  
+  Computer Engineering and Informatics Department(CEID) – University of Patras
+    
 - Focus areas:  
   - Digital logic & hardware design (VHDL/Verilog)  
   - FPGA architecture and implementation flows  
   - Hardware verification & simulation  
   - Lightweight cryptographic hardware  
-  - Embedded and low-level systems  
+  - Embedded and low-level systems
+    
 - **Diploma Thesis:**  
-  *FPGA implementation of the Hummingbird-2 Lightweight Authenticated Encryption Algorithm*  
+  *FPGA implementation of the Hummingbird-2 Lightweight Authenticated Encryption Algorithm*
+  
 - **Internship – Think Silicon (Applied Materials):**  
   - Designed SystemVerilog Soft-IP components (floating-point arithmetic)  
   - Performed synthesis & verification using Synopsys tools  

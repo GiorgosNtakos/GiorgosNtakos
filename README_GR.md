@@ -8,7 +8,8 @@
 
 ## Σχετικά με εμένα
 
-- **Integrated Master απο το Τμήμα Μηχανικών Ηλεκτρονικών Υπολογιστών & Πληροφορικής(ΤΜΗΥΠ – Πανεπιστήμιο Πατρών)**  
+- **Integrated Master απο το Τμήμα Μηχανικών Ηλεκτρονικών Υπολογιστών & Πληροφορικής (ΤΜΗΥΠ – Πανεπιστήμιο Πατρών)**
+    
 - Τομείς εξειδίκευσης:  
   - Ψηφιακός σχεδιασμός (VHDL/Verilog)  
   - FPGA αρχιτεκτονικές και υλοποιήσεις  
@@ -22,7 +23,7 @@
 - **Πρακτική άσκηση – Think Silicon (Applied Materials):**  
   - Σχεδίαση SystemVerilog Soft-IP (πράξεις floating-point)  
   - Synthesis & verification με Synopsys Design Compiler  
-  - Αυτοματοποίηση ροών υλοποίησης μέσω TCL scripting
+  - Αυτοματοποίηση hardware ροών μέσω TCL scripting
 
 ---
 
@@ -41,10 +42,10 @@
 - LaTeX  
 
 **Ενδιαφέροντα**  
-- FPGA system design & acceleration  
+- FPGA design & hardware acceleration  
 - Hardware security primitives  
 - Low-power / embedded αρχιτεκτονικές  
-- EDA αυτοματοποίηση & scripting  
+- EDA tools αυτοματοποίηση & scripting  
 
 ---
 
@@ -70,7 +71,7 @@
 
 ## Σύνδεσμοι
 
-- Portfolio: https://giorgosntakos.github.io/portfolio-/  
+- Portfolio: [https://giorgosntakos.github.io/portfolio-/](https://giorgosntakos.github.io/portfolio-/)  
 - LinkedIn: https://www.linkedin.com/in/giorgos-ntakos-28b294272/  
 - GitHub: https://github.com/GiorgosNtakos  
-- Email: `giorgos-1001@hotmail.com`
+- Email: `giorgos-1001[at]hotmail.com`

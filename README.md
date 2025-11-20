@@ -10,8 +10,7 @@ I design, simulate and verify hardware architectures using VHDL/Verilog and indu
 
 ## About Me
 
-- **Integrated Master in Computer & Informatics Engineering (5-year degree)**  
-  Computer Engineering and Informatics Department(CEID) – University of Patras
+- **Integrated Master in Computer & Informatics Engineering (5-year degree) from Computer Engineering and Informatics Department (CEID) – University of Patras**
     
 - Focus areas:  
   - Digital logic & hardware design (VHDL/Verilog)  

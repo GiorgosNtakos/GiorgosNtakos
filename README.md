@@ -75,7 +75,7 @@ and may be useful for:
 
 ## Links
 
-- Portfolio: https://giorgosntakos.github.io/portfolio-/  
+- Portfolio: https://giorgosntakos.github.io/portfolio-/
 - LinkedIn: https://www.linkedin.com/in/giorgos-ntakos-28b294272/  
 - GitHub: https://github.com/GiorgosNtakos  
 - Email: `giorgos-1001[at]hotmail.com`
